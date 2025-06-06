@@ -22,8 +22,7 @@ I am a dedicated and goal-oriented MCA final-year student with a CGPA of 8.8 and
 
 ## 🌐 Live Portfolio Link
 
-👉 [Click here to view my portfolio](https://<LeelaSVKP>.github.io/<portfolio>/)
-
+👉 http://127.0.0.1:5500/index.html#about
 (Replace <your-username> and <your-repo-name> accordingly)
 
 ## 📸 Screenshot (Optional)
